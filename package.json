@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@yandex/ymaps3-clusterer": "^0.0.9",
+    "@yandex/ymaps3-types": "^0.0.27"
+  }
+}
